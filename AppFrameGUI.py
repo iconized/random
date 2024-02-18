@@ -1,3 +1,7 @@
+
+# Author : Abhiraj Roy <icon@snigdhaos.org>
+# Author URL : https://icon.snigdhaos.org
+
 from socket import TIPC_ADDR_NAME
 from urllib.parse import scheme_chars
 import Functions as fn
